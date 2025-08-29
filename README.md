@@ -60,15 +60,3 @@ The findings were summarized in an **8-slide business presentation**.
 I also recorded a walkthrough of the slides explaining the insights and recommendations:  
 [Watch the video here](https://www.loom.com/share/debe0b8f739a4b52b6fd35af249693c7?sid=feb609be-4770-4230-83a8-e6fb635e82ab)  
 
-## How to Run
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/sofiainfantec/beats_by_dre_survey.git
-
-## Run the Analysis in Google Colab  
-You can run the full Python analysis directly in your browser without installing anything:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sofiainfantec/beats_by_dre_survey/blob/main/analysis.py)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sofiainfantec/beats_by_dre_survey/blob/main/analysis.ipynb)
-
