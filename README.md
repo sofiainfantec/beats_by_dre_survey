@@ -69,3 +69,6 @@ I also recorded a walkthrough of the slides explaining the insights and recommen
 You can run the full Python analysis directly in your browser without installing anything:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sofiainfantec/beats_by_dre_survey/blob/main/analysis.py)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sofiainfantec/beats_by_dre_survey/blob/main/analysis.ipynb)
+
