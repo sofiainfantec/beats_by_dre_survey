@@ -52,6 +52,14 @@ All data cleaning, formatting, statistical summaries, and visualizations are per
 8. **Purchase Drivers** – Average Likert scale scores for factors influencing purchase (`purchase_drivers.png`).  
 9. **Top 10 Purchase Channels** – % of respondents by preferred channel (`purchase_channel_top10.png`).  
 
+## Presentation Slides  
+The findings were summarized in an **8-slide business presentation**.  
+[View the slides here](https://gamma.app/docs/Insights-Strategic-Recommendations-for-Beats-by-Dre-vljta4hhh6cl732)
+
+## Video Presentation  
+I also recorded a walkthrough of the slides explaining the insights and recommendations:  
+[Watch the video here](https://www.loom.com/share/debe0b8f739a4b52b6fd35af249693c7?sid=feb609be-4770-4230-83a8-e6fb635e82ab)  
+
 ## How to Run
 1. Clone the repo:  
    ```bash
