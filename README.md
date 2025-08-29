@@ -1,4 +1,4 @@
-e# Beats by Dre: Wireless Speaker Consumer Insights
+### Beats by Dre: Wireless Speaker Consumer Insights
 
 ## Project Overview
 This project analyzes survey responses to understand consumer preferences, behaviors, and purchase drivers in the market for high-fidelity wireless speakers. The goal is to provide actionable insights for Beats by Dre to design data-driven strategies for product positioning, marketing, and distribution.
@@ -64,3 +64,8 @@ I also recorded a walkthrough of the slides explaining the insights and recommen
 1. Clone the repo:  
    ```bash
    git clone https://github.com/sofiainfantec/beats_by_dre_survey.git
+
+## Run the Analysis in Google Colab  
+You can run the full Python analysis directly in your browser without installing anything:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sofiainfantec/beats_by_dre_survey/blob/main/beats_analysis.py)
