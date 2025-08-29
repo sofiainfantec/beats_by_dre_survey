@@ -1,4 +1,4 @@
-# Beats by Dre: Wireless Speaker Consumer Insights
+e# Beats by Dre: Wireless Speaker Consumer Insights
 
 ## Project Overview
 This project analyzes survey responses to understand consumer preferences, behaviors, and purchase drivers in the market for high-fidelity wireless speakers. The goal is to provide actionable insights for Beats by Dre to design data-driven strategies for product positioning, marketing, and distribution.
