@@ -28,18 +28,25 @@ From the survey analysis, we aim to uncover:
 - **Sales Channels**: Preferred retail environments including large multi-brand stores, department stores, and online platforms.
 
 ## Data
-- **Source**: Survey responses collected from consumers who own or have used wireless speakers.  
-- **File**: `survey_responses.csv` (included in the repo).  
+- **Source**:
+
+survey_responses.csv Survey responses collected from consumers who own or have used wireless speakers.
+Survey_responses_analysis.xlsx Excel file containing Pivot Tables and Pivot Charts for exploratory analysis. 
+
+- **Structure**:
 - **Rows**: Each row represents a survey response.  
 - **Columns**: Demographics, product usage, desired features, purchase drivers, spending, and channel preferences.  
 
-## Analysis
-All data cleaning, formatting, statistical summaries, and visualizations are performed in the `analysis.py` script.  
+## Analysis  
 
-### Key Steps:
+### Python Workflow (`analysis.py`)  
 1. **Data Cleaning**: Remove duplicates, drop empty columns, convert numeric columns.  
-2. **Descriptive Statistics**: Summary of all variables to understand distributions and detect missing values.  
-3. **Visualizations**: Graphs saved in the `figures/` folder.
+2. **Descriptive Statistics**: Summary of variables to understand distributions and detect missing values.  
+3. **Visualizations**: Charts exported and saved in the `figures/` folder.  
+
+### Excel Workflow (Survey_responses_analysis.xlsx`)  
+- Created **Pivot Tables** to summarize consumer behavior by demographics, usage frequency, and spending.  
+- Designed **Pivot Charts** (bar, column, pie) for fast visual exploration and validation of Python outputs.  
 
 ## Figures Generated
 1. **Frequency of Use** – % of respondents by usage frequency (`frequency_of_use.png`).  
