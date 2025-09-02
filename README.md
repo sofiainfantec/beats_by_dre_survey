@@ -29,9 +29,8 @@ From the survey analysis, we aim to uncover:
 
 ## Data
 - **Source**:
-
-survey_responses.csv Survey responses collected from consumers who own or have used wireless speakers.
-Survey_responses_analysis.xlsx Excel file containing Pivot Tables and Pivot Charts for exploratory analysis. 
+- survey_responses.csv Survey responses collected from consumers who own or have used wireless speakers.
+- Survey_responses_analysis.xlsx Excel file containing Pivot Tables and Pivot Charts for exploratory analysis. 
 
 - **Structure**:
 - **Rows**: Each row represents a survey response.  
